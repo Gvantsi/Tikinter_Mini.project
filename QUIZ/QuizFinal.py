@@ -124,6 +124,3 @@
 #
 # root.mainloop()
 
-
-
-
